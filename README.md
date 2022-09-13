@@ -1,5 +1,5 @@
 # WoS-Solver
-Tool that searchs a lists of words to find matches for the popular game "Words on Steam"
+Tool that searchs a lists of words to find matches for the popular game "Words on Stream"
 
 ## usage
 		   -h prints this message
